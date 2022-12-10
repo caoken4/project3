@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: caoken/udagram-frontend:v2
+        image: caoken/udagram-frontend:v1
         ports: 
         - containerPort: 80
         resources:
